@@ -1,8 +1,8 @@
 # GreenX
-NASA Project
-Awards & Nominations
-OrionVI has received the following awards and nominations. Way to go!
-GLOBAL NOMINEE
+<h1>NASA Project</h1.
+<h3>Awards & Nominations</h3>
+
+<h2>GLOBAL NOMINEE</h2>
 Sustaining Our Planet for Future Generations
 There is concern worldwide that environmental issues we face today will have an impact on future generations. Your challenge is to create a way to communicate the importance of environmental responsibility to people of all ages.
 GreenX
